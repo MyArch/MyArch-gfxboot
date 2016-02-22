@@ -8,7 +8,7 @@
 # Davidmp <medipas@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Antergos\n"
+"Project-Id-Version: MyArch\n"
 "PO-Revision-Date: 2016-01-26 15:11+0000\n"
 "Last-Translator: Davidmp <medipas@gmail.com>\n"
 "Language-Team: Catalan (http://www.transifex.com/faidoc/antergos/language/ca/)\n"
@@ -434,8 +434,8 @@ msgid "Live System (GNOME)"
 msgstr "Sistema viu (GNOME)"
 
 #. txt_start
-msgid "Start Antergos Live"
-msgstr "Inicia el sistema viu Antergos"
+msgid "Start MyArch Live"
+msgstr "Inicia el sistema viu MyArch"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"

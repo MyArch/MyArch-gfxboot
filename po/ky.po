@@ -6,7 +6,7 @@
 # Ilyas Bakirov <just_ilyas@yahoo.com>, 2009
 msgid ""
 msgstr ""
-"Project-Id-Version: Antergos\n"
+"Project-Id-Version: MyArch\n"
 "PO-Revision-Date: 2016-01-26 10:47+0000\n"
 "Last-Translator: Alexandre Filgueira <faidoc@gmail.com>\n"
 "Language-Team: Kyrgyz (http://www.transifex.com/faidoc/antergos/language/ky/)\n"
@@ -432,7 +432,7 @@ msgid "Live System (GNOME)"
 msgstr ""
 
 #. txt_start
-msgid "Start Antergos Live"
+msgid "Start MyArch Live"
 msgstr ""
 
 #. txt_nonfree

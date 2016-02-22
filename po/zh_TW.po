@@ -7,7 +7,7 @@
 # Jeff Huang <s8321414@gmail.com>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: Antergos\n"
+"Project-Id-Version: MyArch\n"
 "PO-Revision-Date: 2016-01-26 10:47+0000\n"
 "Last-Translator: Alexandre Filgueira <faidoc@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/faidoc/antergos/language/zh_TW/)\n"
@@ -433,8 +433,8 @@ msgid "Live System (GNOME)"
 msgstr "Live 系統 (GNOME)"
 
 #. txt_start
-msgid "Start Antergos Live"
-msgstr "啟動 Antergos Live"
+msgid "Start MyArch Live"
+msgstr "啟動 MyArch Live"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"

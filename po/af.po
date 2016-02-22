@@ -6,7 +6,7 @@
 # Stefan van der Merwe <svdm32@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: Antergos\n"
+"Project-Id-Version: MyArch\n"
 "PO-Revision-Date: 2016-01-26 10:47+0000\n"
 "Last-Translator: Alexandre Filgueira <faidoc@gmail.com>\n"
 "Language-Team: Afrikaans (http://www.transifex.com/faidoc/antergos/language/af/)\n"
@@ -432,7 +432,7 @@ msgid "Live System (GNOME)"
 msgstr "Lewendige Stelsel (GNOME)"
 
 #. txt_start
-msgid "Start Antergos Live"
+msgid "Start MyArch Live"
 msgstr ""
 
 #. txt_nonfree

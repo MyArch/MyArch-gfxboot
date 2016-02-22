@@ -426,7 +426,7 @@ msgid "Live System (GNOME)"
 msgstr ""
 
 #. txt_start
-msgid "Start Antergos Live"
+msgid "Start MyArch Live"
 msgstr ""
 
 #. txt_nonfree

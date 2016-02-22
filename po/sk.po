@@ -8,7 +8,7 @@
 # Dušan Kazik <prescott66@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Antergos\n"
+"Project-Id-Version: MyArch\n"
 "PO-Revision-Date: 2016-01-26 11:00+0000\n"
 "Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
 "Language-Team: Slovak (http://www.transifex.com/faidoc/antergos/language/sk/)\n"
@@ -434,8 +434,8 @@ msgid "Live System (GNOME)"
 msgstr "Live systém (GNOME)"
 
 #. txt_start
-msgid "Start Antergos Live"
-msgstr "Spustiť systém Antergos Live"
+msgid "Start MyArch Live"
+msgstr "Spustiť systém MyArch Live"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"

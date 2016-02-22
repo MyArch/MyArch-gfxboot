@@ -7,7 +7,7 @@
 # Georgi Georgiev <georgiev_1994@abv.bg>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Antergos\n"
+"Project-Id-Version: MyArch\n"
 "PO-Revision-Date: 2016-01-26 10:47+0000\n"
 "Last-Translator: Alexandre Filgueira <faidoc@gmail.com>\n"
 "Language-Team: Bulgarian (http://www.transifex.com/faidoc/antergos/language/bg/)\n"
@@ -433,8 +433,8 @@ msgid "Live System (GNOME)"
 msgstr "Жива среда (GNOME)"
 
 #. txt_start
-msgid "Start Antergos Live"
-msgstr "Стартиране на Antergos Live"
+msgid "Start MyArch Live"
+msgstr "Стартиране на MyArch Live"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"
